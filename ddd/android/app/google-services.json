@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566800244259",
+    "project_id": "driver-drowsiness-detect-fe137",
+    "storage_bucket": "driver-drowsiness-detect-fe137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566800244259:android:f6160c1345c98a84291b96",
+        "android_client_info": {
+          "package_name": "com.example.ddd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566800244259-t5bq0eram31qbuse17fhgq6i80rimkdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGhmVrcCLJrjiSBFdWOy3B5Q9XRbzbiNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566800244259-t5bq0eram31qbuse17fhgq6i80rimkdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
